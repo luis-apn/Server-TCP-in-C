@@ -1,0 +1,12 @@
+[2024-10-30 21:53:11] Cliente: 4: Comando =  DATETIME, Resposta = 2024-10-30 21:53:11
+[2024-10-30 21:57:02] Cliente: 4: Comando =  DATETIME, Resposta = 2024-10-30 21:57:02
+[2024-10-30 21:59:20] Cliente: 4: Comando =  DATETIME, Resposta = 2024-10-30 21:59:20
+[2024-10-30 22:08:44] Cliente: 4: Comando =  DATETIME, Resposta = 2024-10-30 22:08:44
+[2024-10-30 22:10:48] Cliente: 4: Comando =  UPTIME, Resposta = Servidor em execucao ha 11.580000 segundos
+[2024-10-30 22:10:59] Cliente: 4: Comando =  UPTIME, Resposta = Servidor em execucao ha 20.760000 segundos
+[2024-10-30 22:14:18] Cliente: 4: Comando =  DATETIME, Resposta = 2024-10-30 22:14:18
+[2024-10-30 22:14:23] Cliente: 4: Comando =  INFO, Resposta = Servidor TCP v1.0
+[2024-10-30 22:14:33] Cliente: 4: Comando =  UPTIME, Resposta = Servidor em execucao ha 36.4 segundos
+[2024-10-30 22:14:54] Cliente: 4: Comando =  RNDNUMBER, Resposta = 68
+[2024-10-30 22:14:59] Cliente: 4: Comando =  UPTIME, Resposta = Servidor em execucao ha 50.4 segundos
+[2024-10-30 22:15:05] Cliente: 4: Comando =  BYE, Resposta = Conexao Encerrada
